@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**MinerChAI/MinerChAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**j0hnmeow/j0hnmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="float: right" src="https://github-readme-stats.vercel.app/api?username=MinerChAI&show_icons=true&count_private=true&theme=dark">
-<img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinerChAI&theme=dark&layout=compact&hide_title=true">
+<img style="float: right" src="https://github-readme-stats.vercel.app/api?username=j0hnmeow&show_icons=true&count_private=true&theme=dark">
+<img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnmeow&theme=dark&layout=compact&hide_title=true">
