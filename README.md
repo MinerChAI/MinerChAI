@@ -1,5 +1,5 @@
 ### Hi there 👋
-![pronouns](https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F5fd6ee7f03a32f34d711b80a)
+![pronouns](https://img.shields.io/endpoint?color=e91f63&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F5fd6ee7f03a32f34d711b80a)
 <!--
 **iamalicecarroll/iamalicecarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
